@@ -1,4 +1,4 @@
-module github.com/go-zoox/packet
+module github.com/go-zoox/ip
 
 go 1.18
 
